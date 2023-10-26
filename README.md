@@ -1,1 +1,2 @@
 # jloc7.github.io
+This twine story follows the story of Catherine of Aragon and Anne Boleyn as we learn about their history. We go through the different historical figures during the reign of King Henry VIII while focusing specifically on the two women, his first two wives. Players can choose their paths while learning about history and the similarities and differences that each women experienced.
